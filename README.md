@@ -53,7 +53,9 @@ If the images are not included, go back to the generator and manually select the
 
 ## Outlook for Windows (New)
 
-TODO
+Follow the Outlook for Web guide.  
+So, copy-paste and then re-add all 6 images.  
+Outlook for Windows (New) uses the same mechanism as Web. In fact, the signatures _should_ be synced between (New) and Web, but not always. 
 
 
 ## Outlook for MacOS 
